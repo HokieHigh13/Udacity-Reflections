@@ -12,6 +12,10 @@ to commit or add files to commit before doing so.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+The staging area tells you what files are to be packaged for a commit. When you
+make a logical change, you want to make sure all files changed to make that logical
+change are committed together.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
