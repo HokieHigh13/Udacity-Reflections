@@ -19,10 +19,22 @@ change are committed together.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches would be helpful in product development. Foe example, say you want to provide
+a SaaS and you have three different versions but all three, at one point in time, were
+the same. By using branches, you can track those changes. 
+
 How do the diagrams help you visualize the branch structure?
+
+Diagrams shows you how different aspects of the file veered off, came back together, what they commits did,
+give you an idea mentally of what the product is doing or changing.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging two barnches together brings together the head of multiple together while tracking
+the commit of history of each branch. It is represented the way is it to make it easier to checkout
+certain commits and see where that commit is locally. 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+manually? Git automatic merging saves time but could introduce unwanted errors. 
+            Manual merging is tedious but ensure no new errors are introduced. 
