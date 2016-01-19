@@ -25,7 +25,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Well you essentially would have a pseudo master in which you could work on different branches
+    but still have a working master. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
