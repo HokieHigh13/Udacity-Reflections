@@ -43,4 +43,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You want to make changes in a serperate branch when you do not want to change the master branch.
+    The benefits of updating the master directly is just that. Updating the master directly and easily.
+    The benefits of making changes in a seperate branch is to ensure that the master branch is ready for those
+    changes. 
