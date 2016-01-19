@@ -9,8 +9,10 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
-
+    We have been taught to create a commit to reflect a logical change. Updating
+    Git's repository is a logical change. Thus, this is something we should create
+    manually instead of updating.
+    
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
