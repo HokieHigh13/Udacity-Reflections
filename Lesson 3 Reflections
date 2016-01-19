@@ -31,7 +31,14 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    The whole point of programming is to enable an individual to work from their own outlet. 
+    The whole point of programming from an internet perspectic is to enable an individual
+    to work from their own outlet anywhere in the world with internet connect. 
+    Git and Github facilitates collaboration across the internet by centralizing the process.
+    Without those mechanics or any similar mechanics, individuals would be left to email changes
+    which lack the tools necessary for software development. I don't think you could make it any easier
+    from my limited standpoint but you can make it harder by overcomplicating the linear process.
+    Too many unnecessary commits. Wrong description format. There kind of steps can make it harder.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
